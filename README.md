@@ -1,19 +1,53 @@
 # Git.Yea
 The Right To Be Here Is yours.
 
-::
+Please use these only when you have permission, I do not condone the use of any exploits for illegal purposes
 
-Most current Link
-: https://mountain-game-games.github.io/ :
-Last Checked: 11/9
+---
 
-Link To All Game websites
-: https://github.com/TrickJoker312/Unblocked-Sites :
- (Scroll Down)
-90% of the links don't work but it is worth checking out
-Last Checked: 11/9
+<b>Current Exploits:</b>
 
-::
+## Skiovox Unrestricted *browsing*
+   An exploit that allows for browsing within a completely unblocked Chrome
+browser. It works on ChromeOS 118 and a wide range of previous versions.
+- Skiovox utilizes a bug in kiosk apps
+- Very similar to a bug from 3 years ago
+Within the unblocked browser, you can
+- Install extensions
+- Bypass pretty much all blocks
+- Do whatever the honk you want
+---
+Cost: $4.00 First Time
 
-Exploits
-[Blocked]
+-$1.00 Default
+
+
+## *Experimental* Exploits
+   These exploits all have a %50 chance of working, however, they are
+   risky to use, you can sign up to be a "*Gunnie Pig*" and get
+   paid for it. Minimum of $1.00 maximum of $10.00
+
+   <b>List of experimental Exploits</b>
+- <b>LTBEEF</b> disable extentions / $1.00
+- <b>LTMEAT</b> flood crash extentions / $1.00
+- <b>Point-Blank</b> execute scripts on extentions / $2.00
+- <b>CAUB</b> prevent updates / *maybe* $1.00
+- <b>CHAOS</b> hapara bypass / $2.00
+- <b>SOT</b> exploits / $3.00
+- <b>Sh1mmer</b> uninrollment / VERY RISKY $10.00
+---
+Depending on what you want to test the higher the risk
+the higher the reward.
+
+The riskiest could be the loss of your computer
+The least riskiest could be the loss of files
+
+---
+---
+
+How to purchase this service?
+contact my *work* email 
+
+HmmIndeedQuite@gmail.com / HmHmYesQuite@gmail.com
+
+(dont use your school email)

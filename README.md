@@ -7,7 +7,7 @@ Please use these only when you have permission, I do not condone the use of any 
 
 <b>Current Exploits:</b>
 
-## Skiovox Unrestricted *browsing*
+# Skiovox Unrestricted *browsing*
    An exploit that allows for browsing within a completely unblocked Chrome
 browser. It works on ChromeOS 118 and a wide range of previous versions.
 - Skiovox utilizes a bug in kiosk apps
@@ -22,7 +22,7 @@ Cost: $4.00 First Time
 -$1.00 Default
 
 
-## *Experimental* Exploits
+# *Experimental* Exploits
    These exploits all have a %50 chance of working, however, they are
    risky to use, you can sign up to be a "*Gunnie Pig*" and get
    paid for it. Minimum of $1.00 maximum of $10.00

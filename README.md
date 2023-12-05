@@ -17,9 +17,9 @@ Within the unblocked browser, you can
 - Bypass pretty much all blocks
 - Do whatever the honk you want
 ---
-Cost: $4.00 First Time
+Cost: $2.00 First Time
 
--$1.00 Default
+-$0.50 Default
 
 
 # *Experimental* Exploits

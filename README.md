@@ -28,7 +28,7 @@ Cost: $2.00 First Time
    paid for it. Minimum of $1.00 maximum of $10.00
 
    <b>List of experimental Exploits</b>
-- <b>LTBEEF</b> disable extentions / $1.00
+- <b>Corkey</b> corrupt extensions / $3.00
 - <b>LTMEAT</b> flood crash extentions / $1.00
 - <b>Point-Blank</b> execute scripts on extentions / $2.00
 - <b>CAUB</b> prevent updates / *maybe* $1.00

@@ -16,10 +16,27 @@ Within the unblocked browser, you can
 - Install extensions
 - Bypass pretty much all blocks
 - Do whatever the honk you want
+  
 ---
 Cost: $2.00 First Time
 
--$0.50 Default
+- $0.50 Default
+
+---
+---
+
+# List of all *unblocked* websites
+   Every website *currently*(as of 12/13/23) that is not blocked.
+   Aswell as a couple proxys
+   
+---
+
+Cost:
+- 1 website = $0.50
+- 3 website = $1.00
+- 10 website = $3.00
+- Proxy = $5.00
+We also accept website exchange meaning you can trade us website links
 
 
 # *Experimental* Exploits
@@ -40,7 +57,7 @@ Depending on what you want to test the higher the risk
 the higher the reward.
 
 The riskiest could be the loss of your computer
-The least riskiest could be the loss of files
+The least riskiest could be just a waste of time
 
 ---
 ---
@@ -51,3 +68,10 @@ contact my *work* email
 HmmIndeedQuite@gmail.com / HmHmYesQuite@gmail.com
 
 (dont use your school email)
+
+Alternatives to paying :
+- We accept collateral, such as unblocked website links, interesting links in general, classified school info,
+  other exploits and IOU notes.
+
+
+We do not promote hacking in any way, this is all educational.

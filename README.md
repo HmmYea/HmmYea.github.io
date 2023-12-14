@@ -1,4 +1,4 @@
-# Git.Yea
+# Salt.github.io
 The Right To Be Here Is yours.
 
 Please use these only when you have permission, I do not condone the use of any exploits for illegal purposes

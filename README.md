@@ -22,8 +22,7 @@ Cost: $2.00 First Time
 
 - $0.50 Default
 
----
----
+
 
 # List of all *unblocked* websites
    Every website *currently*(as of 12/13/23) that is not blocked.
@@ -38,6 +37,8 @@ Cost:
 - Proxy = $5.00
 We also accept website exchange meaning you can trade us website links
 
+---
+---
 
 # *Experimental* Exploits
    These exploits all have a %50 chance of working, however, they are

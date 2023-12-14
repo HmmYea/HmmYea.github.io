@@ -24,8 +24,8 @@ Cost: $2.00 First Time
 
 
 
-# List of all *unblocked* websites
-   Every website *currently*(as of 12/13/23) that is not blocked.
+# *unblocked* websites
+   Websites that are *currently* (as of 12/13/23) not blocked.
    Aswell as a couple proxys
    
 ---
@@ -35,6 +35,7 @@ Cost:
 - 3 website = $1.00
 - 10 website = $3.00
 - Proxy = $5.00
+
 We also accept website exchange meaning you can trade us website links
 
 ---

@@ -1,7 +1,7 @@
-# Salt.github.io
+# HmmYea.github.io
 The Right To Be Here Is yours.
 
-Please use these only when you have permission, I do not condone the use of any exploits for illegal purposes
+Please use these only when you have permission, we do not condone the use of any exploits for illegal purposes
 
 ---
 
@@ -26,7 +26,7 @@ Cost: $2.00 First Time
 
 # *unblocked* websites
    Websites that are *currently* (as of 12/13/23) not blocked.
-   Aswell as a couple proxys
+   Aswell as a couple of proxys
    
 ---
 
@@ -72,8 +72,13 @@ HmmIndeedQuite@gmail.com / HmHmYesQuite@gmail.com
 (dont use your school email)
 
 Alternatives to paying :
-- We accept collateral, such as unblocked website links, interesting links in general, classified school info,
-  other exploits and IOU notes.
+
+-We accept collateral, such as:
+- unblocked website links
+- interesting links in general
+- classified school info
+- other exploits and IOU notes.
 
 
-We do not promote hacking in any way, this is all educational.
+
+We do not promote hacking in any way, this is all for educational purposes.

@@ -16,16 +16,16 @@ Within the unblocked browser, you can
 - Install extensions
 - Bypass pretty much all blocks
 - Do whatever the honk you want
-  
+- # Only works on ChromeBooks Under the version 117
 ---
-Cost: $2.00 First Time
+Cost: $1.00 First Time
 
 - $0.50 Default
 
 
 
 # *unblocked* websites
-   Websites that are *currently* (as of 12/13/23) not blocked.
+   Websites that are *currently* (as of 1/8/24) not blocked.
    Aswell as a couple of proxys
    
 ---

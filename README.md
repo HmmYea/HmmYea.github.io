@@ -16,7 +16,7 @@ Within the unblocked browser, you can
 - Install extensions
 - Bypass pretty much all blocks
 - Do whatever the honk you want
-- # Only works on ChromeBooks Under the version 117
+- <b> Only works on ChromeBooks Under the version 117</b>
 ---
 Cost: $1.00 First Time
 
